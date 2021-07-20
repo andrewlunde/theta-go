@@ -1,4 +1,4 @@
-package theta-go
+package theta_go
 
 import "math"
 
